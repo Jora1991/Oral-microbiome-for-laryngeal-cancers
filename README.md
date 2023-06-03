@@ -1,9 +1,10 @@
 # Oral-microbiome-for-laryngeal-cancers
 
-Folder data, mock input files
-Folder figure1, code for figure 1
-Folder figure2, code for figure 2
-Folder figure3, code for figure 3
-Folder figure4, code for figure 4
+Bioinformatics analysis for the article titled "Oral-Microbiome-Derived Signatures Enable Non-invasive Diagnosis of Laryngeal Cancers"<br>
 
-For other bioinformatics analysis codes involved in the article, please contact junru.chen2019@hotmail.com.
+figure1.R, code for figure 1<br>
+figure2.R, code for figure 2<br>
+figure3.R, code for figure 3<br>
+figure4.R, code for figure 4<br>
+
+For any other reasonable requests, please contact junru.chen2019@hotmail.com.
